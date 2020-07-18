@@ -36,6 +36,6 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 -->
 
 #### Get in touch
-* <a href="https://www.linkedin.com/in/ammar-siddiqui-ab0011143/" target="_blank">LinkedIn/in/ammar-siddiqui-ab0011143</a>
+* <a href="https://www.linkedin.com/in/ammar-siddiqui847" target="_blank">LinkedIn/in/ammar-siddiqui847</a>
 * <a href="https://ammar-s847.github.io" target="_blank">ammar-s847.github.io</a>
 * Email: ammar.siddiqui847@gmail.com
