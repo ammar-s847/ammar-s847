@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Ammar and I'm a Management Engineering Student at the University of Waterloo in Waterloo, Ontario CA. I love building fun projects, solving problems with code, and I am currently working a lot with Python. Feel free to get in touch!
 
-### Currently Working on
+#### Currently Working on
 * A* Pathfinding Algorithm Visualizer
 * Forex Currency data graphing and comparison Web app
 <!--
@@ -26,7 +26,7 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 * Sentiment Analysis Project
 -->
 
-## Get in touch
+#### Get in touch
 * <a href="https://www.linkedin.com/in/ammar-siddiqui-ab0011143/">LinkedIn/in/ammar-siddiqui-ab0011143</a>
 * <a href="https://ammar-s847.github.io">ammar-s847.github.io</a>
 * Email: ammar.siddiqui847@gmail.com
