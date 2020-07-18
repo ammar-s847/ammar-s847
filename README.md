@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Ammar and I'm a Management Engineering Student at the University of Waterloo in Waterloo, Ontario CA. I love building fun projects, solving problems with code, and I am currently working a lot with Python. Feel free to get in touch!
 
-![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=ammar-s847&show_icons=true&bg_color=9842f5&text_color=ffffff&title_color=ffffff)
+![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=ammar-s847&show_icons=true&bg_color=9842f5&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
 #### Currently Working on
 * A* Pathfinding Algorithm Visualizer.
