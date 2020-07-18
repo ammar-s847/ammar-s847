@@ -18,12 +18,19 @@ Here are some ideas to get you started:
 My name is Ammar and I'm a Management Engineering Student at the University of Waterloo in Waterloo, Ontario CA. I love building fun projects, solving problems with code, and I am currently working a lot with Python. Feel free to get in touch!
 
 #### Currently Working on
-* A* Pathfinding Algorithm Visualizer
-* Forex Currency data graphing and comparison Web app
+* A* Pathfinding Algorithm Visualizer.
+* Forex Currency data graphing and comparison Web app.
 <!--
 * Markov Chain Project
 * PHP CRUD Web app
 * Sentiment Analysis Project
+-->
+
+<!--
+#### Currently Learning
+* Basic Machine Learning with TensorFlow.
+* Data Science with Pandas and Numpy.
+* CRUD and Fullstack Web development with PHP and JS.
 -->
 
 #### Get in touch
