@@ -28,12 +28,10 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 * Sentiment Analysis Project
 -->
 
-<!--
 #### Currently Learning
 * Basic Machine Learning with TensorFlow.
-* Data Science with Pandas and Numpy.
+* Data Science with Pandas, Matplotlib, and Numpy.
 * CRUD and Fullstack Web development with PHP and JS.
--->
 
 #### Get in touch
 * <a href="https://www.linkedin.com/in/ammar-siddiqui847" target="_blank">LinkedIn/in/ammar-siddiqui847</a>
