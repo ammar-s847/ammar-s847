@@ -20,8 +20,8 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 ![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=ammar-s847&show_icons=true) <!-- &bg_color=9842f5&text_color=ffffff&title_color=ffffff&icon_color=ffffff -->
 
 #### Currently Working on
-* A* Pathfinding Algorithm Visualizer.
-* Forex Currency data graphing and comparison Web app.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=A-Star-Pathfinding-Visualizer)](https://github.com/ammar-s847/A-Star-Pathfinding-Visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=forex-comparison)](https://github.com/ammar-s847/forex-comparison)
 <!--
 * Markov Chain Project
 * PHP CRUD Web app
@@ -35,4 +35,4 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 
 #### Get in touch
 * <a href="https://www.linkedin.com/in/ammar-siddiqui847" target="_blank">LinkedIn/in/ammar-siddiqui847</a>
-* <a href="https://ammar-s847.github.io" target="_blank">ammar-s847.github.io</a>
+* <a href="https://ammars.me" target="_blank">ammars.me</a> (Personal Website)
