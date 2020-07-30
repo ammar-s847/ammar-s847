@@ -21,6 +21,7 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 
 #### Currently Working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=A-Star-Pathfinding-Visualizer)](https://github.com/ammar-s847/A-Star-Pathfinding-Visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ClientViewer)](https://github.com/ammar-s847/ClientViewer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=forex-comparison)](https://github.com/ammar-s847/forex-comparison)
 <!--
 * Markov Chain Project
