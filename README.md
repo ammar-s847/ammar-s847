@@ -24,7 +24,7 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=forex-comparison)](https://github.com/ammar-s847/forex-comparison)
 <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ClientViewer)](https://github.com/ammar-s847/ClientViewer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waterloo-rocketry&repo=topside)](https://github.com/waterloo-rocketry/topside)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waterloo-rocketry&repo=topside)](https://github.com/waterloo-rocketry/topside)-->
 <!--
 * Markov Chain Project
 * PHP CRUD Web app
