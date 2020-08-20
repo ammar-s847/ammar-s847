@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ammar and I'm a Management Engineering Student at the University of Waterloo in Waterloo, Ontario CA. I love building fun projects, solving problems with code, and I am currently working a lot with Python. I also play Guitar as a hobby and listen to rock, blues, and metal music. Feel free to get in touch!
+My name is Ammar and I'm a Management Engineering Student at the University of Waterloo in Waterloo, Ontario CA. I love building fun projects (my favourite language is Python), solving problems with code, and learning about how different applications and systems work. I also play Guitar as a hobby and listen to rock, blues, and metal music. Feel free to get in touch!
 
 ![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=ammar-s847&show_icons=true) <!-- &bg_color=9842f5&text_color=ffffff&title_color=ffffff&icon_color=ffffff -->
 
