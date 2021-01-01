@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ammar
+## Hi there 👋 I'm Ammar
 
 <!--
 **ammar-s847/ammar-s847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
