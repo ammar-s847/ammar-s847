@@ -36,5 +36,5 @@ My name is Ammar and I'm a Management Engineering Student at the University of W
 * CRUD and Fullstack Web development with PHP and JS.
 
 #### Get in touch
-* <a href="https://www.linkedin.com/in/ammar-siddiqui847" target="_blank">LinkedIn/in/ammar-siddiqui847</a>
+* <a href="https://www.linkedin.com/in/ammar847/" target="_blank">linkedin/in/ammar847</a>
 * <a href="http://www.ammars.me" target="_blank">www.ammars.me</a> (Personal Website)
