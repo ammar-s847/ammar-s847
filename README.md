@@ -33,7 +33,7 @@ I'm a Management Engineering Student at the University of Waterloo in Waterloo, 
 #### Currently Learning
 * Basic Machine Learning with TensorFlow.
 * Data Science with Pandas, Matplotlib, and Numpy.
-* CRUD and Fullstack Web development with PHP and JS.
+* Full Stack Development with MERN stack.
 
 #### Get in touch
 * <a href="https://www.linkedin.com/in/ammar847/" target="_blank">linkedin/in/ammar847</a>
