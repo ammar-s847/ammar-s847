@@ -22,7 +22,7 @@ I'm a Management Engineering Student at the University of Waterloo in Waterloo, 
 #### Currently Working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=A-Star-Pathfinding-Visualizer&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/A-Star-Pathfinding-Visualizer)
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=forex-comparison)](https://github.com/ammar-s847/forex-comparison)-->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ClientViewer&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/ClientViewer)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ClientViewer&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/ClientViewer)-->
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waterloo-rocketry&repo=topside)](https://github.com/waterloo-rocketry/topside)-->
 <!--
 * Markov Chain Project
