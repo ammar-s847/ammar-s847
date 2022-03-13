@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Management Engineering Student at the University of Waterloo in Waterloo, Ontario CA. I love building fun projects (my favourite language is Python), solving problems with code, and learning about how different applications and systems work. I also play Guitar as a hobby 🎸. Feel free to get in touch!
+I'm a Management Engineering Student at the University of Waterloo in Waterloo, Ontario CA. I love building fun projects, solving problems with code, and learning about how different applications and systems work. I also play Guitar as a hobby 🎸. Feel free to get in touch!
 
 ![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=ammar-s847&show_icons=true&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff) <!-- &bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff -->
 
@@ -31,9 +31,9 @@ I'm a Management Engineering Student at the University of Waterloo in Waterloo, 
 -->
 
 #### Currently Learning
-* Basic Machine Learning with TensorFlow.
-* Data Science with Pandas, Matplotlib, and Numpy.
-* Full Stack Development with MERN stack.
+* Implementing Machine Learning models with TensorFlow, Keras, and Scikit-learn
+* Building microservices with Node.js and Golang
+* Deploying applications using Docker, Kubernetes, and AWS
 
-#### Get in touch
+#### Contact
 * <a href="https://www.linkedin.com/in/ammar847/" target="_blank">linkedin/in/ammar847</a>
