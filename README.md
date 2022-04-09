@@ -20,15 +20,9 @@ I'm a Management Engineering Student at the University of Waterloo. I love build
 ![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=ammar-s847&show_icons=true&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff) <!-- &bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff -->
 
 #### Currently Working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=A-Star-Pathfinding-Visualizer&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/A-Star-Pathfinding-Visualizer)
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=forex-comparison)](https://github.com/ammar-s847/forex-comparison)-->
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ClientViewer&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/ClientViewer)-->
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waterloo-rocketry&repo=topside)](https://github.com/waterloo-rocketry/topside)-->
-<!--
-* Markov Chain Project
-* PHP CRUD Web app
-* Sentiment Analysis Project
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ACA-Trading-Bot&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/ACA-Trading-Bot)
+<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=NBA-Data-Analysis&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/NBA-Data-Analysis)
 
 #### Currently Learning
 * Implementing Machine Learning models with TensorFlow, Keras, and Scikit-learn
