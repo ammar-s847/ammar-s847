@@ -22,7 +22,7 @@ I'm a Management Engineering Student at the University of Waterloo. I love build
 #### Currently Working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ACA-Trading-Bot&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/ACA-Trading-Bot)
 <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=NBA-Data-Analysis&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/NBA-Data-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=Cyclica-Classification-Challenge&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/Cyclica-Classification-Challenge)
 
 #### Currently Learning
 * Implementing Machine Learning models with TensorFlow, Keras, and Scikit-learn
