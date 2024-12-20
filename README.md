@@ -1,5 +1,3 @@
-## Hey, I'm Ammar!
-
 <!--
 **ammar-s847/ammar-s847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 4th year engineering student at the University of Waterloo with interests spanning Machine Learning, Distributed Systems, and Robotics. Outside of tech, I enjoy lifting, climbing, reading, and music, recently picking up DJ'ing!
+Hey, I'm Ammar! I'm a 4th year engineering student at the University of Waterloo with interests spanning Machine Learning, Distributed Systems, and Robotics. Outside of tech, I enjoy lifting, climbing, reading, and guitar.
 
 <!--
 I know you didn't ask but here are some lessons I've learned throughout my ML engineering journey:
