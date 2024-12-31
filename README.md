@@ -33,7 +33,7 @@ I know you didn't ask but here are some lessons I've learned throughout my ML en
 -->
 
 #### 📚 Currently Learning
-* Rust!
+* Rust
 * Embodied AI using Vision-Language Models
 * Writing CUDA Kernels
 
