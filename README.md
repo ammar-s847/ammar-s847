@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Ammar! I'm a 4th year engineering student at the University of Waterloo with interests spanning Machine Learning, Distributed Systems, and Robotics. Outside of tech, I enjoy lifting, climbing, reading, and guitar.
+Hey, I'm Ammar! I'm a 4th year engineering student at the University of Waterloo with interests spanning Machine Learning, Distributed Systems, and Robotics. Outside of tech, I enjoy lifting, climbing, reading, and playing guitar.
 
 <!--
 I know you didn't ask but here are some lessons I've learned throughout my ML engineering journey:
@@ -26,11 +26,13 @@ I know you didn't ask but here are some lessons I've learned throughout my ML en
 
 <!-- ![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=ammar-s847&show_icons=true&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff) <!-- &bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff --> 
 <!-- 
-#### Currently Working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=ACA-Trading-Bot&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/ACA-Trading-Bot)
 <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ammar-s847&repo=Cyclica-Classification-Challenge&bg_color=1f0145&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/ammar-s847/Cyclica-Classification-Challenge)
 -->
+
+#### 💻 Currently Working on
+* OpenXRIF -> https://github.com/OpenXRIF
 
 #### 📚 Currently Learning
 * Rust
