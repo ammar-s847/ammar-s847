@@ -32,7 +32,7 @@ I know you didn't ask but here are some lessons I've learned throughout my ML en
 -->
 
 #### 💻 Currently Working on
-* OpenXRIF -> https://github.com/OpenXRIF
+* OpenXRIF (https://github.com/OpenXRIF)
 
 #### 📚 Currently Learning
 * Rust
